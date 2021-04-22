@@ -25,7 +25,7 @@ My Name is Kaustuv Karan. I am full stack web developer with interest in fields 
 ![R](	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
-### :fire: Frameworks/Libraries
+### 🛠 Frameworks/Libraries
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
