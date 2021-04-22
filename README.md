@@ -16,7 +16,7 @@ My Name is Kaustuv Karan. I am full stack web developer with interest in fields 
 
 ### :coffee: Languages 
 
-![C](http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=035697)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
