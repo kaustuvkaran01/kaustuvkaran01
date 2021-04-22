@@ -13,4 +13,3 @@ More about me:
 - 📫 How to reach me: ... kaustuvkaran@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Did you know 1 + 2 + 3 + 4 = 10 but 1 + 2 + 3 + "4" = "64"?
--->
