@@ -46,14 +46,3 @@ My Name is Kaustuv Karan. I am full stack web developer with interest in fields 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
-### 📝 Let's connect
-
-[<img align="left" alt="kaustuvkaran | Medium" width="40px" src="https://img.icons8.com/nolan/50/medium-new.png" />][medium]
-[<img align="left" alt="kaustuvkaran | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="karankaustuv | Instagram" width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-
-
-[medium]: https://medium.com/@kaustuvkaran
-[instagram]: https://www.instagram.com/karankaustuv/
-[linkedin]: https://www.linkedin.com/in/kaustuvkaran/
