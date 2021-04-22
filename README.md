@@ -25,7 +25,7 @@ My Name is Kaustuv Karan. I am full stack web developer with interest in fields 
 ![R](	https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 
-### 🛠 Frameworks/Libraries
+### :computer: Frameworks/Libraries
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap)
@@ -36,7 +36,7 @@ My Name is Kaustuv Karan. I am full stack web developer with interest in fields 
 ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&express&logoColor=ffffff)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🛠 Tools and Technologies
 ![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
