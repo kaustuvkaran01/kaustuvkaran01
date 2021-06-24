@@ -5,7 +5,7 @@ My Name is Kaustuv Karan. I am full stack web developer with interest in fields 
 ![](https://komarev.com/ghpvc/?username=kaustuvkaran01&style=flat-square&color=46f2b3&label=Visitor+Count)
 <br></br>
 **More about me:** 
-- 🔭 I’m currently working as ... Developer for Kadam
+- 🔭 I’m currently working as ... Research Fellow @SAMSUNG PRISM PROGRAM
 - 🌱 I’m currently learning ... Redux, ApolloGraphQL, Framer Motion for React, PyTorch and GANs
 - 👯 I’m looking to collaborate on ... just about anything. I am a very curious fellow :)(:
 - 🤔 I’m looking for help with ... Competitive Programming.
