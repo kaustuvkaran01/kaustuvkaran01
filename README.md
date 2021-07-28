@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Name is Kaustuv Karan. I am full stack web developer with interest in fields like Competitive Programming, Deep Learning and Quantum Computing. I am proud to say that **I can finally invert a binary tree. Ha Ha.**. Now that that's out of the way, my last great read was Never Split the Difference: Negotiating as if your life depended on it. Do give it a read.<br></br> **Just trying to make the world a better place line by line, commit by commit.**
+My Name is Kaustuv Karan. I am full stack web developer with interest in fields like Competitive Programming, Deep Learning and Quantum Computing. I am proud to say that **I can finally invert a binary tree. Ha Ha.**. Now that that's out of the way, my last great reads were Never Split the Difference: Negotiating as if your life depended on it and The Psychology of Money. Do give them a read.<br></br> **Just trying to make the world a better place line by line, commit by commit.**
 <br></br>
 ![](https://komarev.com/ghpvc/?username=kaustuvkaran01&style=flat-square&color=46f2b3&label=Visitor+Count)
 <br></br>
