@@ -5,8 +5,8 @@ My Name is Kaustuv Karan. I am full stack web developer with interest in fields 
 ![](https://komarev.com/ghpvc/?username=kaustuvkaran01&style=flat-square&color=46f2b3&label=Visitor+Count)
 <br></br>
 **More about me:** 
-- 🔭 I’m an intern @ [American Express](https://www.americanexpress.com/en-in/)
-- 🌱 I’m currently learning ... Redux, ApolloGraphQL and Framer Motion for React
+- 🔭 I’m a Software Development Engineer @ [American Express](https://www.americanexpress.com/en-in/)
+- 🌱 I’m currently learning ... Java + Springboot
 - 👯 I’m looking to collaborate on ... just about anything. I am a very curious fellow :)(:
 - 🤔 I’m looking for help with ... Competitive Programming.
 - 💬 Ask me about ... React or GraphQL, if I don't know something, I'm sure we can learn stuff together.;)
